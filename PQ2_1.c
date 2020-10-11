@@ -3,7 +3,8 @@
  *
  *  Created on: 10-Oct-2020
  *      Author: hp
- */
+ *//*C program to find the largest element in an Array*/
+
 #include<stdio.h>
 int main(){
 	 int arr[]={5,10,30,20,25};
