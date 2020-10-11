@@ -4,6 +4,7 @@
  *  Created on: 10-Oct-2020
  *      Author: hp
  */
+/*Write a program to input two strings and compare whether the strings are same or not.*/
 
 #include<stdio.h>
 int main(){
@@ -29,12 +30,12 @@ int main(){
 				|| str1[i]!=str2[i] )
 		{
 			flag=1;
-			printf("String is not equal");
+			printf("String are not equal");
 			break;
 		}
 	}
 	if(flag==0){
-		printf("String is equal");
+		printf("String are equal");
 	}
 
 	return 0;
