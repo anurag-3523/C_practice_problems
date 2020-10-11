@@ -5,6 +5,12 @@
  *  Created on: 10-Oct-2020
  *      Author: hp
  */
+/*C Program to Delete the Specified Integer from an Array
+Eg :The current elements of the array are:
+a[] = { 5, 10, 15, 20, 25}
+The element to be deleted = 15. The output array should be
+a[] = { 5, 10, 20, 25, 0}
+If the number is not found then a proper error message should be displayed.*/
 
 #include<stdio.h>
 int main(){
